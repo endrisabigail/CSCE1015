@@ -1,4 +1,4 @@
-# CSCE1015 - Hochstetler
+# CSCE1015 
 Assignment repository for UNT CSCE1015
 ## ate0043
 [ate0043]
